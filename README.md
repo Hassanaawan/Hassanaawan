@@ -30,7 +30,7 @@ Here are some of my recent projects, demonstrating my capabilities in various do
 
 ### 
 AI Voice Assistant is a cutting-edge Flutter application that empowers users to interact seamlessly using natural voice commands. Leveraging real-time speech-to-text conversion and intelligent AI processing, the app understands user intents and responds effectively through both voice and text outputs.
-* **GitHub:** [@AI-Voice-Assistant]([https://github.com/Hassanaawan](https://github.com/Hassanaawan/AI-voice-assistant))
+* **GitHub:** [AI-Voice-Assistant](https://github.com/Hassanaawan/AI-voice-assistant)
 ### Muslim Life - Islamic Life Application
 A beautifully designed Islamic lifestyle mobile application developed using Flutter, offering essential features for every Muslim. The app integrates authentic Hadith, full...
 
