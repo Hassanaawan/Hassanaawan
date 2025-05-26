@@ -66,7 +66,7 @@ Feel free to reach out to me for collaborations, inquiries, or just to say hello
 * **Phone:** 03105406925
 * **Email:** hassan.hm.0325@gmail.com
 * **LinkedIn:** [@Hassanaawan](https://www.linkedin.com/in/Hassanaawan)
-* **GitHub:** [@Hassanaawanr](https://github.com/Hassanaawanr)
+* **GitHub:** [@Hassanaawanr](https://github.com/Hassanaawan)
 
 You can also reach me via **WhatsApp** through the button on my portfolio.
 
