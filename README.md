@@ -28,6 +28,9 @@ Here's a breakdown of my core competencies:
 
 Here are some of my recent projects, demonstrating my capabilities in various domains:
 
+### 
+AI Voice Assistant is a cutting-edge Flutter application that empowers users to interact seamlessly using natural voice commands. Leveraging real-time speech-to-text conversion and intelligent AI processing, the app understands user intents and responds effectively through both voice and text outputs.
+**GitHub:** [AI Voice Assistant]([https://github.com/Hassanaawan](https://github.com/Hassanaawan/AI-voice-assistant))
 ### Muslim Life - Islamic Life Application
 A beautifully designed Islamic lifestyle mobile application developed using Flutter, offering essential features for every Muslim. The app integrates authentic Hadith, full...
 
@@ -66,7 +69,7 @@ Feel free to reach out to me for collaborations, inquiries, or just to say hello
 * **Phone:** 03105406925
 * **Email:** hassan.hm.0325@gmail.com
 * **LinkedIn:** [@Hassanaawan](https://www.linkedin.com/in/Hassanaawan)
-* **GitHub:** [@Hassanaawanr](https://github.com/Hassanaawan)
+* **GitHub:** [@Hassanaawan](https://github.com/Hassanaawan)
 
 You can also reach me via **WhatsApp** through the button on my portfolio.
 
