@@ -64560,7 +64560,7 @@ A.E2.prototype={
 M(a){var s=null,r=A.eg(20),q=A.a([B.aH,B.cW],t.O)
 return A.vk(!1,s,!0,A.fI(B.a0,A.eW(A.a([A.dE("Download CV",s,s,A.ai(a).p1.ax.L_(B.j,B.ac,1.2)),B.OS,B.Fq],t.p),B.K,B.F,B.R),B.B,s,s,new A.dw(s,s,s,r,B.lf,new A.fT(B.x3,B.x2,B.aK,q,s,s),B.am),s,s,s,B.EK,s,s,s),s,!0,s,s,s,s,s,s,s,s,s,new A.Uz(),s,s,s,s)}}
 A.Uz.prototype={
-$0(){A.m9(A.ea("https://drive.usercontent.google.com/download?id=1fuwKGU-tVlE_DemZKWUuBcjlcLTDsrqk&export=download&authuser=2&confirm=t&uuid=bae0aa6f-6c3b-402d-afcb-962f0b04cb6c&at=AN8xHoohOk7BKAn7Yu2oYr4D9nD9:1752822654510",0,null))},
+$0(){A.m9(A.ea("https://drive.usercontent.google.com/download?id=1h_3xTrWmpUemQNk3_5DDF5U19eXbeBe5&export=download&authuser=0&confirm=t&uuid=fbdb5a44-6ffc-4d79-b1bb-41a859b5c714&at=AN8xHorFqxohtvHZFuEOJW7YxXLJ:1752900419661",0,null))},
 $S:0}
 A.nq.prototype={
 M(a){return new A.hg(new A.a0U(this),null)}}
